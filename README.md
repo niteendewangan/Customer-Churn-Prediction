@@ -1,15 +1,3 @@
-Perfect ✅ — I found the evaluation results inside your notebook!
-
-Here’s what I extracted:
-
-* **Accuracy Score:** `81.47%`
-* **Model:** Logistic Regression
-* Dataset size: 7043 records (train: 5634, test: 1409)
-
-Now here’s your **final polished `README.md`**, ready for GitHub and LinkedIn:
-
----
-
 ## 🧠 **Customer Churn Prediction using Logistic Regression**
 
 > 🎯 **Objective:** Predict whether a customer will stop using a service based on behavioral and demographic features.
@@ -92,5 +80,3 @@ This project strengthened my understanding of **classification models**, **data 
 #MachineLearning #DataScience #CustomerChurn #LogisticRegression #AI #Python #PredictiveAnalytics
 
 ---
-
-Would you like me to export this as a `README.md` file (ready to upload to GitHub)?
